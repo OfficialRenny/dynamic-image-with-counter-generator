@@ -1,0 +1,14 @@
+{
+  "name": "steam-profile-counter-image",
+  "version": "1.0.0",
+  "description": "SteamProfileCounterImage",
+  "main": "server.js",
+  "author": {
+    "name": "Renny"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jimp": "^0.14.0"
+  }
+}
